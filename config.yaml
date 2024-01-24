@@ -286,18 +286,18 @@ params:
   # projects
   projects:
     enable: true
-    title: "Recent Projects"
+    title: "Portfolio"
     items:
       - title: Bullion Store
         content: UX and UI design for www.bullionstore.com.au
-        image: /images/projects/profile.png
+        image: /images/bullion-store/web-banner.png
         featured:
           name: Project Details
           link: /blogs/bullionstore.com.au/
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+         # - "Hugo"
+         # - "Bootstrap"
+         # - "Javascript"
         links:
 
       - title: Image Converter
