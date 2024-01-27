@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bullion Store on Vinaya Muralidharan</title>
-    <link>https://vinayamuralidharan.com/portfolio/bullionstore.com.au/</link>
+    <link>https://vinayamuralidharan.github.io/portfolio/bullionstore.com.au/</link>
     <description>Recent content in Bullion Store on Vinaya Muralidharan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jan 2023 23:29:21 +0530</lastBuildDate>
-    <atom:link href="https://vinayamuralidharan.com/portfolio/bullionstore.com.au/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vinayamuralidharan.github.io/portfolio/bullionstore.com.au/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
