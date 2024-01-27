@@ -222,9 +222,9 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "• Post Graduate Diploma in Embedded systems"
+      - title: "Post Graduate Diploma in Embedded systems"
         school:
-          name: "Center for Development of Advanced Computing (CDAC) "
+          name: "Center for Development of Advanced Computing (CDAC)"
           url: "https://www.cdac.in"
         date: "2011"
         GPA: ""
