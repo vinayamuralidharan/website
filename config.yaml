@@ -270,7 +270,7 @@ params:
         image: /images/bullion-store/web-banner.png
         featured:
           name: Project Details
-          link: /blogs/bullionstore.com.au/
+          link: /portfolio/bullionstore.com.au/
         badges:
          # - "Hugo"
          # - "Bootstrap"
